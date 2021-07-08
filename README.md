@@ -1,3 +1,3 @@
-# gamerflix
+# megaflix
 
-Cópia da página da netflix baseado em jogos
+Cópia da página da netflix com jogos do megaman
